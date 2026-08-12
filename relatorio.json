@@ -1,0 +1,62 @@
+{
+  "gerado_em": "2026-08-08",
+  "total_transacoes_validas": 17,
+  "total_transacoes_invalidas": 5,
+  "periodo": {
+    "inicio": "2026-01-05",
+    "fim": "2026-04-10"
+  },
+  "dias_periodo": 95,
+  "resumo_mensal": {
+    "2026-01": {
+      "quantidade": 4,
+      "total_credito": 18500.0,
+      "total_debito": 500.5,
+      "saldo": 17999.5,
+      "media": 4750.12,
+      "maior_valor": 15000.0,
+      "menor_valor": 180.5
+    },
+    "2026-02": {
+      "quantidade": 5,
+      "total_credito": 22200.0,
+      "total_debito": 549.9,
+      "saldo": 21650.1,
+      "media": 4549.98,
+      "maior_valor": 15500.0,
+      "menor_valor": 99.9
+    },
+    "2026-03": {
+      "quantidade": 6,
+      "total_credito": 7000.0,
+      "total_debito": 1129.9,
+      "saldo": 5870.1,
+      "media": 1354.98,
+      "maior_valor": 3500.0,
+      "menor_valor": 99.9
+    },
+    "2026-04": {
+      "quantidade": 2,
+      "total_credito": 3500.0,
+      "total_debito": 220.0,
+      "saldo": 3280.0,
+      "media": 1860.0,
+      "maior_valor": 3500.0,
+      "menor_valor": 220.0
+    }
+  },
+  "transacoes_suspeitas": [
+    {
+      "id": 3,
+      "cliente_id": "cliente_03",
+      "data": "2026-01-20",
+      "valor": 15000.0
+    },
+    {
+      "id": 7,
+      "cliente_id": "cliente_01",
+      "data": "2026-02-14",
+      "valor": 15500.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,cliente_01,credito,3500.00,Salário janeiro,salario
+2,2026-01-12,cliente_02,debito,180.50,Supermercado,compra
+3,2026-01-20,cliente_03,credito,15000.00,Transferência recebida,transferencia
+4,2026-01-25,cliente_01,debito,320.00,Conta de luz,conta
+5,2026-02-03,cliente_02,credito,3500.00,Salário fevereiro,salario
+6,2026-02-10,cliente_03,debito,99.90,Streaming,assinatura
+7,2026-02-14,cliente_01,credito,15500.00,Transferência suspeita,transferencia
+8,2026-02-18,cliente_02,debito,450.00,Farmácia,saude
+9,2026-02-22,cliente_03,credito,3200.00,Salário fevereiro,salario
+10,2026-03-01,cliente_01,credito,3500.00,Salário março,salario
+11,2026-03-08,cliente_02,debito,600.00,Aluguel,moradia
+12,2026-03-10,cliente_03,debito,99.90,Streaming,assinatura
+13,2026-03-15,cliente_01,debito,250.00,Supermercado,compra
+14,2026-03-20,cliente_02,credito,3500.00,Salário março,salario
+15,2026-03-28,cliente_03,debito,180.00,Internet,conta
+16,2026-04-02,cliente_01,credito,3500.00,Salário abril,salario
+17,2026-04-10,cliente_02,debito,220.00,Supermercado,compra
+,2026-01-30,cliente_01,debito,50.00,ID vazio,compra
+19,2026-02-05,,credito,100.00,Cliente vazio,salario
+20,30-02-2026,cliente_02,debito,75.00,Data invalida,compra
+21,2026-03-05,cliente_03,transferencia,200.00,Tipo invalido,transferencia
+22,2026-03-12,cliente_01,debito,abc,Valor invalido,compra
